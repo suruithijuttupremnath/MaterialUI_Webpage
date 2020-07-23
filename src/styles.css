@@ -1,0 +1,45 @@
+
+.center {
+  margin-top: 6%;
+  font-family: sans-serif;
+  text-align: center;
+  color:rgb(0, 0, 153);
+}
+.button{
+ margin: 0 ;
+ position: absolute;
+ top: 60%;
+ left: 50%;
+ -ms-transform: translate(-50% , -50%);
+ transform: translate(-50%,-50%);
+ padding-bottom: 50px;
+}
+.checkbox{
+  margin-top: 10%;
+  position: absolute;
+  top: 30%;
+  left:52%;
+  right: -20%;
+  -ms-transform: translate(-50% , -50%);
+  transform: translate(-50%,-50%);
+  padding-bottom: 20px;
+  
+}
+.paragraph{
+ background-color: rgb(252, 252, 235);
+ top: 50%;
+ margin-top: 100px;
+ margin-left: 20px;
+ margin-right: 20px;
+ padding-top: 20px;
+ padding-bottom: 50px;
+ padding-left: 20px;
+ padding-right: 20px;
+}
+ .gridboxes{
+  padding-top: 20px;
+  top: 40%;
+  position:"fixed";
+}
+ 
+
